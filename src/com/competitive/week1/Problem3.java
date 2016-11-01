@@ -4,7 +4,11 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 import java.util.Scanner;
-
+/**
+ * 
+ * @author Manan
+ *
+ */
 public class Problem3 {
 
 	static Scanner newInput() throws FileNotFoundException {
