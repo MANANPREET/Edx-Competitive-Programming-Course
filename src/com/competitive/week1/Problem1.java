@@ -4,9 +4,16 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 import java.util.Scanner;
-
+/**
+ * s
+ * @author Manan
+ *
+ */
 public class Problem1 {
-	
+	/**
+	 * 
+	 * @param args
+	 */
 	public static void main(String args[]){
 		try {
 			Scanner sc = new Scanner(new File("E:\\Java Workspaces\\workspace\\Edx Competitive Programming Course\\src\\com\\competitive\\week1\\aplusb.in"));
